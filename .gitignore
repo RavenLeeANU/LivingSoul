@@ -1,1 +1,7 @@
 .idea
+dict
+output
+models
+liveconfig.ini
+playground.py
+__pycache__
