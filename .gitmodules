@@ -1,0 +1,9 @@
+[submodule "blivedm"]
+	path = blivedm
+	url = https://github.com/xfgryujk/blivedm.git
+[submodule "MoeGoe"]
+	path = MoeGoe
+	url = https://github.com/CjangCjengh/MoeGoe.git
+[submodule "EasyVtuber"]
+	path = EasyVtuber
+	url = https://github.com/yuyuyzl/EasyVtuber.git
